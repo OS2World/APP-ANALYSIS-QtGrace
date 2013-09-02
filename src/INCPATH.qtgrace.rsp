@@ -1,0 +1,8 @@
+-Ic:\ecs\SYSTEM\Qt4\include\QtCore
+-Ic:\ecs\SYSTEM\Qt4\include\QtNetwork
+-Ic:\ecs\SYSTEM\Qt4\include\QtGui
+-Ic:\ecs\SYSTEM\Qt4\include\QtWebKit
+-Ic:\ecs\SYSTEM\Qt4\include
+-I.
+-I.
+-Ic:\ecs\SYSTEM\Qt4\mkspecs\default
