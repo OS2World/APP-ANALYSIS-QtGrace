@@ -9,7 +9,9 @@ LICENSE
 
 COMPILE TOOLS
 ===============
-* 
+* GCC
+* G++
+* Qt 4 libraries
 
 AUTHORS
 ===============
